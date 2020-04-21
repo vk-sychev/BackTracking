@@ -1,0 +1,10 @@
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.csprojAssemblyReference.cache
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.Form1.resources
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.Properties.Resources.resources
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.csproj.GenerateResource.cache
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.csproj.CoreCompileInputs.cache
+C:\Users\vasil\source\repos\Task2_20\bin\Debug\Task2_20.exe.config
+C:\Users\vasil\source\repos\Task2_20\bin\Debug\Task2_20.exe
+C:\Users\vasil\source\repos\Task2_20\bin\Debug\Task2_20.pdb
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.exe
+C:\Users\vasil\source\repos\Task2_20\obj\Debug\Task2_20.pdb
